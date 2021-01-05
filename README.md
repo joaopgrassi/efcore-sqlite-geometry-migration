@@ -1,0 +1,1 @@
+# efcore-sqlite-geometry-migration
